@@ -51,9 +51,6 @@ cd frontend
 
 ---
 
-## 📸 Demo
-
-
 
     
 
